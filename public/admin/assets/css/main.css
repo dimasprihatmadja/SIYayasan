@@ -1,0 +1,9 @@
+.container {
+    width: fit-content;
+    padding-top: 4em;
+}
+
+.head-tabel {
+    margin: 0 auto;
+    text-align: center;
+}
